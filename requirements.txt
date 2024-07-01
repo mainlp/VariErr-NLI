@@ -1,0 +1,6 @@
+datasets
+pandas
+transformers
+torch
+accelerate
+wandb
